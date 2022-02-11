@@ -15,7 +15,7 @@
             <input type="text" name="username" id="username" placeholder="名前を入れてください…" />
         </header>
 
-        <div id="message"></div>
+        <div id="messages"></div>
 
         <form id="message_form">
             <input type="text" name="message" id="message_input" placeholder="入力してください…" />

@@ -27,4 +27,5 @@ Route::post('/send-message', function (Request $request) {
         )
     );
     // return view('index');
+    return ["success" => true];
 });
