@@ -1,5 +1,6 @@
 const { default: axios } = require('axios');
 
+//モジュール化されたJavaScriptファイルを読み込む
 require('./bootstrap');
 
 const message_el = document.getElementById("messages");

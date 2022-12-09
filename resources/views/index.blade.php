@@ -22,6 +22,7 @@
             <button type="submit" id="message_send">送信</button>
         </form>
     </div>
+    //jsファイル読み込み
     <script src="./js/app.js"></script>
 </body>
 </html>
